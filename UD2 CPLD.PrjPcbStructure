@@ -1,0 +1,3 @@
+Record=SheetSymbol|SourceDocument=UD2 CPLD.SchDoc|Designator=GD1|SchDesignator=REPEAT(GD, 1, 2)|FileName=GateDriver.SchDoc|SymbolType=Normal|RawFileName=GateDriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=UD2 CPLD.SchDoc|Designator=GD2|SchDesignator=REPEAT(GD, 1, 2)|FileName=GateDriver.SchDoc|SymbolType=Normal|RawFileName=GateDriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=UD2 CPLD.SchDoc
